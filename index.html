@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		
+		<!-- Website Title & Description for Search Engine purposes -->
+		<title></title>
+		<meta name="description" content="">
+		
+		<!-- Mobile viewport optimized -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<!-- Bootstrap CSS -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+		
+		<!-- Custom CSS -->
+		<link href="includes/css/styles.css" rel="stylesheet">
+		
+		<!-- Include Modernizr in the head, before any other Javascript -->
+		<script src="includes/js/modernizr-2.6.2.min.js"></script>
+		
+	</head>
+
+<body>
+	
+	<div class="container" id="main">
+
+		<div class="navbar navbar-fixed-top">
+			<div class="container">
+				
+				<button class="navbar-toggle" data-target=".navbar-responsive-collapse" data-toggle="collapse" type="button">
+					<span class="icon-bar"> </span>
+					<span class="icon-bar"> </span>
+					<span class="icon-bar"> </span>
+				</button>
+
+				<a class="navbar-brand" href="/"><img src="images/kristina_logo2.png" alt="Your Logo"> </a>
+
+				<div class="nav-collapse collapse navbar-responsive-collapse">
+					<ul class="nav navbar-nav">
+						<li class="active">
+							<a href="#">Home</a>
+						</li>
+						<li>
+
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recipes<strong class="caret"></strong></a>
+							
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Vegan Main Dishes</a>
+								</li>
+								
+								<li>
+									<a href="#">Vegan Side Dishes</a>
+								</li>
+								
+								<li>
+									<a href="#">Vegan Desserts</a>
+								</li>
+
+								<li class="divider"></li>
+
+								<li class="dropdown-header">Other Recipes</li>
+								<li>
+									<a href="#">Gluten Free</a>
+								</li>
+
+								<li>
+									<a href="#">Non-Vegan</a>
+								</li>
+							</ul>
+
+						</li>
+
+					</ul>
+				
+				<form class="navbar-form pull-left">
+					<input type="text" class="form-control" placeholder="Search this site..." id="searchInput">
+
+					<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+				</form>
+				
+				<ul class="nav navbar-nav pull-right"> 
+				 	<li> 
+				 		<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> My Account <strong class="caret"></strong></a>
+					
+						<ul class="dropdown-menu">
+							<li>
+								<a href="#"><span class="glyphicon glyphicon-wrench"></span>Settings</a>
+							</li>
+
+							<li>
+								<a href="#"><a href="#"><span class="glyphicon glyphicon-refresh"></span>Update Profile</a>
+							</li>
+
+							<li>
+								<a href="#"><a href="#"><span class="glyphicon glyphicon-pencil"></span>My Comments</a>
+							</li>
+
+							<li class="divider"></li>
+							<li>
+								<a href="#"><a href="#"><span class="glyphicon glyphicon-off"></span>Sign Out</a>
+							</li>
+
+						</ul>
+					</li>
+				</ul>
+			</div>
+
+			</div>
+
+	</div>
+
+
+		<div class="carousel slide" id="myCarousel">
+			
+			<ol class="carousel-indicators">
+				<li class="active" data-slide-to="0" data-target="#myCarousel"></li>
+				<li data-slide-to="1" data-target="#myCarousel"></li>
+				<li data-slide-to="2" data-target="#myCarousel"></li>
+			</ol>
+
+			<div class="carousel-inner">
+				<div class="item active" id="slide1">
+					<div class="carousel-caption">
+						<h4>Bootstrap 3</h4>
+						<p>Website coded with Twitter Bootstrap 3.</p>	
+					</div>
+				</div>
+					
+				<div class="item" id="slide2">
+					<div class="carousel-caption">
+						<h4>Healthy Food</h4>
+						<p>Most opitons are healthy those that are not will sport an asterisk.</p>	
+					</div>
+				</div>
+
+				<div class="item" id="slide3">
+					<div class="carousel-caption">
+						<h4>Header to determine later</h4>
+						<p>Not sure what to put here yet.</p>	
+					</div>
+				</div>
+			</div>
+			
+			<a class="left carousel-control" data-slide="prev" href="#myCarousel"><span class="icon-prev"></span></a>
+			<a class="right carousel-control" data-slide="next" href="#myCarousel"><span class="icon-next"></span></a>
+		</div>
+
+
+		<div class="row" id="bigCallout">
+			<div class="col-12">
+					
+					<div class="alert alert-sucess alert-block" id="sucessAlert">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+
+						<h4>Sucess!</h4>
+						<p>You just made this element work by using jQuery. Click the "x"</p>					
+					</div>
+
+					<div class="well well-small visible-sm">
+						<a href="" class="btn btn-large btn-block btn-default"> <span class="glyphicon glyphicon-phone"></span> Give us a call</a>
+					</div>
+
+					<div class="well">
+						<div class="page-header">
+							<h1> A Fancy Header <small>Subheader for extra awesome</small></h1>
+						
+						<p class="lead">Some more text describing the site.</p>
+						
+						<a href="" class="btn btn-large btn-primary" id="alertMe"> Click here</a>
+						<a href="">Or a secondary link</a>
+						</div>
+					</div>
+
+
+			</div>
+
+		</div>
+
+
+		<div class="row" id="featuresHeading">
+				<div class="col-12">
+					<h2>More Information</h2>
+					<p class="lead">To learn more about veganism, gluten intolerance or vegetarianism check out the links below. </p>
+				</div>
+		</div>
+
+
+		<div class="row" id="features">
+				
+			<div class="col-sm-4 feature">
+				<div class="panel">
+					<div class="panel-heading">
+						<h3 class="panel-title">What is veganism?</h3>
+					</div>
+					<img src="images/vegan_logo.jpg" alt="VEGAN" class="img-circle">
+					<p>Core: no meat, no dairy, no poultry, no eggs, no fish.</p>
+					<a href="http://www.americanvegan.org/vegan.htm" target="_blank" class="btn btn-warning btn-block">Learn more about veganism.</a>
+				</div>
+			</div>
+
+			<div class="col-sm-4 feature">
+				<div class="panel">
+					<div class="panel-heading">
+						<h3 class="panel-title">What is vegetarianism?</h3>
+					</div>
+					<img src="images/vegetarian_logo.jpg" alt="VEGETARIAN" class="img-circle">
+					<p>Core: no meat, no fish, no poultry.</p>
+					<a href="http://www.vrg.org/nutshell/Vegetarianisninanutshell.pdf" target="_blank" class="btn btn-danger btn-block">Learn more about Vegetarianism.</a>
+				</div>
+			</div>
+
+			<div class="col-sm-4 feature">
+				<div class="panel">
+					<div class="panel-heading">
+						<h3 class="panel-title">Why gluten-free?</h3>
+					</div>
+					<img src="images/gluten_free_logo.jpg" alt="GLUTEN-FREE" class="img-circle">
+					<p>Core: a gluten-free diet treats celiac disease.</p>
+					<a href="http://www.mayoclinic.org/gluten-free-diet/art-20048530" target="_blank" class="btn btn-info btn-block">Learn more about gluten-free diets.</a>
+				</div>
+			</div>
+
+		</div>
+
+
+		<div class="row" id="moreInfo">
+				<div class="col-sm-6">
+					<h3>Neat Tabbable Content</h3>
+					<div class="tabbable">
+						<ul class="nav nav-tabs">
+							<li class="active"><a href="#tab1" data-toggle="tab">Section 1</a></li>
+							<li><a href="#tab2" data-toggle="tab">Section 2</a></li>
+						</ul> 
+						<div class="tab-content">
+							<div class="tab-pane active" id="tab1">
+								<h4><span class="glyphicon glyphicon-map-marker"></span>My location<small> Most of the time</small></h4>
+								
+								<iframe width="550" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?ie=UTF8&amp;t=m&amp;ll=37.413255,-122.081108&amp;spn=0.054538,0.068321&amp;z=12&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?ie=UTF8&amp;t=m&amp;ll=37.413255,-122.081108&amp;spn=0.054538,0.068321&amp;z=12&amp;source=embed" style="color:#0000FF;text-align:left"></a></small>
+								<p>Content to add later</p>
+
+								<p>Content to add later</p>
+								
+								<p>Content to add later</p>
+							</div>
+							<div class="tab-pane" id="tab2">
+								<h4>A left Floated Picture <small> Extra content </small></h4>
+								
+								<!--add own picture here--> <img src="http://placehold.it/140" class="thumbnail pull-left">
+
+								<p>Content to add later</p>
+
+								<p>Content to add later</p>
+
+								<hr>
+								<a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal"><span class="glyphicon glyphicon-hand-up"></span> Click for Modal Window!</a>
+								<div class="modal fade" id="myModal">
+									<div class="modal-dialog">
+										<div class="modal-content">
+											<div class="modal-header">
+												<button class="close" data-dismiss="modal">&times;</button>
+												<h4 class="modal-title">Header</h4>
+											</div>
+											<div class="modal-body">
+												<h4>Text in a modal</h4>
+												
+												<p>About modal, text to add later</p>
+												
+												<h4>Popovers in a modal</h4>
+												<a href="#" class="btn btn-danger pop" data-toggle="popover" data-placement="top" data-original-title="You clicked it!" data-content="I knew you would.">Don't click this button!</a>
+												
+												<h4>Tooltips in a modal (text to change later)</h4>
+												<a href="#" data-original-title="Tooltip" rel="tooltip">This link</a> should have a tooltip, and so should <a href"#" data-original-title="Woohoo" rel="tooltip">this one</a>!
+
+												<hr>
+
+												<p><small class="text-muted">PS. This form doesn
+													t do anything. (to update later) </small></p>
+
+												<form class="form-horizontal">
+													<div class="form-group">
+														<label class="col-lg-2 control-label" for="inputName">Name</label>
+															<div class="col-lg-10">
+																<input class="form-control" id="inputName" placeholder="Name" type="text">
+															</div>
+													</div>
+
+													<div class="form-group">
+														<label class="col-lg-2 control-label" for="inputEmail">Email</label>
+															<div class="col-lg-10">
+																<input class="form-control" id="inputEmail" placeholder="Email" type="email">
+															</div>
+													</div>
+													
+													<div class="form-group">
+														<label class="col-lg-2 control-label" for="inputMessage">Message</label>
+														<div class="col-lg-10">
+															<textarea class="form-control" id="imputMessage" placeholder="Message" rows="3"></textarea>
+															<input class="btn btn-success pull-right" type="submit"></button>
+															</div>
+													</div>	
+												</form>
+												</div>
+
+												<div class="modal-footer">
+													<button class="btn btn-default" data-dismiss="modal" type="button">Close</button> <button class="btn btn-primary">Save Changes</button>
+											</div>
+											</div>
+										</div>
+
+									</div> 
+								</div>
+
+							</div>
+
+
+
+						</div>
+				</div>	
+				
+				<div class="col-sm-6">
+					<h3>Super Foods</h3>
+					<p>For more information about super foods read <a href="http://www.superfoodsrx.com/products/superfoodsrx-books/superfoods-rx.html" target="_blank">SuperFoods</a> Rx by Steven Pratt, M.D. and Kathy Matthews. (Super food list and recommeded amounts from Superfoods Rx)</p>
+					
+					<h4>Eat more super foods!</h4>
+					<div class="list-group">
+						
+						<a href="#" class="list-group-item">
+									<h4 class="list-group-item-heading">Beans</h4>
+									<p class="list-group-item-text">Similar foods: All beans are super foods. Super easy!
+							
+									How much should I eat? A minimum of four 1/2 cup servings per week.</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Blueberries</h4>
+							<p class="list-group-item-text">Similar foods: Purple grapes, cranberries, boysenberries, raspberries, strawberries, currants, blackberries, cherries, etc. Eat them fresh, frozen or dried.
+							How much should I eat? 1 - 2 cups daily</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Broccoli</h4>
+							<p class="list-group-item-text">Similar foods: Brussel sprouts, cabbage, kale, turnips, cauliflower, collards, bok choy, mustard greens, swiss chard.
+							How much should I eat? 1/2 - 1 cup daily</p>
+						</a>
+
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Oats</h4>
+							<p class="list-group-item-text">Super similar foods: Wheat germ and ground flaxseed. Other similar foods: brown rice, barley, wheat, buckwheat, rye, millet, bulger wheat, amaranth, quinoa, triticale, kamut, yellow corn, wild rice, spelt and couscous.
+							How much should I eat? 5 - 7 servings a day</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Oranges</h4>
+							<p class="list-group-item-text">Similar foods: Lemons, grapefruit*, kumquats, tangerines and limes.
+							How much should I eat? 1 serving daily
+							*Grapefruit can cause drug interactions in some cases, so you may want to consult with your doctor before adding grapefruit to your diet.</p>
+						</a>
+						
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Pumpkin</h4>
+							<p class="list-group-item-text">Similar foods: Carrots, butternut squash, sweet potatoes, orange bell peppers.
+							How much should I eat? 1/2 cup most days</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Wild Salmon</h4>
+							<p class="list-group-item-text">Similar foods: Alaskan halibut, canned albacore tuna, sardines, herring, trout, sea bass, oysters and clams.
+							How much should I eat? two to four times a week</p>
+						</a>
+						
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Soy</h4>
+							<p class="list-group-item-text">Similar foods: tofu, soymilk, soy nuts, edamame, tempeh, miso.
+							How much should I eat? At least 15 grams of soy protein (30 to 50 isoflavones; not from isoflavone-fortified products) per day and divide total daily soy intake into two separate meals or snacks</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Spinach</h4>
+							<p class="list-group-item-text">Similar foods: Kale, collards, Swiss chard, mustard greens, turnip greens, bok choy, romaine lettuce, orange bell peppers.
+							How much should I eat? 1 cup steamed or two cups raw most days</p> 
+						</a>
+						
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Tea</h4>
+							<p class="list-group-item-text">Similar foods: None.
+							How much should I eat? 1 or more cups daily</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Tomatoes</h4>
+							<p class="list-group-item-text">Similar foods: Red watermelon, grapefruit, Japanese persimmons, red-fleshed papaya, strawberry guava.
+							How much should I eat? 1 serving of processed tomatoes or similar foods per day and multiple servings per week of fresh tomatoes</p> 
+						</a>
+						
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Turkey (Skinless Breast)</h4>
+							<p class="list-group-item-text">Similar foods: Skinless chicken breast.
+							How much should I eat? 3 to 4 servings per week of 3 to 4 ounces (max, 4 ounces per serving)</p>
+						</a>
+
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Walnuts</h4>
+							<p class="list-group-item-text">Similar foods: almonds, pistachios, sesame seeds, peanuts, pumpkin and sunflower seeds, macadamia nuts, pecans, hazelnuts, cashews. 
+							How much should I eat? 1 ounce, five times a week</p> 
+						</a>
+						
+						<a href="#" class="list-group-item">
+							<h4 class="list-group-item-heading">Yogurt</h4>
+							<p class="list-group-item-text">Similar foods: Kefir.
+							How much should I eat? 2 cups daily</p>
+						</a>
+
+					</div>
+
+					<h5>A small heading</h5>
+					<p>Text to update later</p>
+				</div>
+		</div>
+
+		<hr>
+		
+		<div class="row" id="moreCourses">
+			
+			<div class="col-12">
+				<h3>Learn more about web design...Content to add later</h3>
+				<div class="thumbnails row"> 
+					
+					<div class="col-6">
+						<div class="thumbnail">
+							<!--update later--><img src="images/item_webhosting101.jpg" alt="Web Hosting 101">
+
+							<div class="caption">
+								<h3>Web Hosting 101</h3>
+								<p>Text to update later. blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </p>
+								<p><a href="http://www.google.com" class="btn btn-primary btn-small" target="_blank">Text to add</a> <a href="http://www.google.com">Click here</a> to learn more</p>
+							</div>	
+						</div>
+					</div>
+				
+					<div class="col-6">
+						<div class="thumbnail">
+							<!--update later--><img src="images/item_psd2html5.jpg" alt="PSD to HTML5 & CSS3">
+
+							<div class="caption">
+								<h3>PSD to HTML5 &amp; CSS3</h3>
+								<p>Text to update later. Blah blah blah</p>
+								<p><a href="http://www.google.com" class="btn btn-primary btn-small" target="_blank">Text to add</a> <a href="http://www.google.com">Click here</a> to learn more</p>
+							</div>	
+						</div>
+					</div> 
+				</div> 
+			</div>
+		</div>
+
+
+	</div>	
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2"> 
+			<h6>Copyright &copy; 2013 Kristina Lillie</h6>
+			</div>
+
+			<div class="col-sm-4"> 
+			 	<h6>About Me</h6>
+			 	<p>Text to add later ---------------------------------------------</P>
+			</div>
+
+			<div class="col-sm-2"> 	
+				<h6>Navigation</h6>
+				<ul class="unstyled">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Services</a></li>
+					<li><a href="#">Links</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</div>
+
+			<div class="col-sm-2"> 
+				<h6>Follow Me</h6>
+				<ul class="unstyled">
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">Github</a></li>
+					<li><a href="#">Google Plus</a></li>
+				</ul>
+			</div>
+			
+			<div class="col-sm-2"> 
+				<h6>Coded with <span class="glyphicon glyphicon-heart"></span> by Kristina</h6>
+			</div>
+		</div> 
+	</div>
+</footer>
+	<!-- All Javascript at the bottom of the page for faster page loading -->
+		
+	<!-- First try for the online version of jQuery-->
+	<script src="http://code.jquery.com/jquery.js"></script>
+	
+	<!-- If no online access, fallback to our hardcoded version of jQuery -->
+	<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+	
+	<!-- Bootstrap JS -->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	
+	<!-- Custom JS -->
+	<script src="includes/js/script.js"></script>
+	
+	</body>
+
+
+</html>
+
