@@ -1,11 +1,8 @@
 $(function() {
-
   $('#alertMe').click(function(e){
-
     e.preventDefault();
 
     $('#sucessAlert').slideDown();
-    
   });
 
   $('a.pop').click(function(e)  {
@@ -15,5 +12,4 @@ $(function() {
   $('a.pop').popover();
 
   $('[rel="tooltip"]').tooltip();
-
 });
