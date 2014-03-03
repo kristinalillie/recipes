@@ -3,7 +3,6 @@
 ## Ingredients
 
 - head of cauliflower 
-- 2 T water
 - head of broccoli 
 - four carrots (med)
 - 1/4 red onion 
@@ -13,6 +12,7 @@
 - 1 t thyme 
 - 1/2 salt (or to taste) 
 - 1 T grape seed oil (or olive oil) 
+- 2 T water
 
 ## Instructions
 
