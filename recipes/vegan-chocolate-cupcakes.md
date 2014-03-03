@@ -16,8 +16,10 @@
 
 ## Instructions
 
-Preheat oven to 350°F and line a muffin pan with paper or foil liners.
+Preheat oven to 350°F and line a muffin tin with paper or foil liners.
 
-Whisk together the almond milk and vinegar in a large bowl, and set aside for a few minutes to curdle. Add the sugar, oil, vanilla extract, and other extract, if using, to the almond milk mixture and beat until foamy. In a separate bowl, sift together the flour, cocoa powder, baking soda, baking powder, and salt. Add in two batches to wet ingredients and beat until no large lumps remain (a few tiny lumps are OK).
+Whisk together the almond milk and vinegar in a large bowl, and set aside for a few minutes to curdle. 
+
+Add the sugar, oil, vanilla extract, and other extract, if using, to the almond milk mixture and beat until foamy. In a separate bowl, sift together the flour, cocoa powder, baking soda, baking powder, and salt. Add in two batches to wet ingredients and beat until no large lumps remain (a few tiny lumps are OK).
 
 Pour into liners, filling 3/4 of the way. Bake 18 to 20 minutes, until a toothpick inserted into the center comes out clean. Transfer to a cooling rack and let cool completely.
