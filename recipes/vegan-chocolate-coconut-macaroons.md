@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-* Makes 24 to 30 (to make half the amount use measurements on the right)
-* 3 cups shredded coconut  (1.5 c)
-* 1/4 cup coconut oil (2 T)
-* 1 teaspoon vanilla extract (1.5 t)
-* 1.5 cups raw almonds (3/4)
-* 1 cup agave nectar (1/2)
-* 1/4 cocoa (2 T)
+- Makes 24 to 30 (to make half the amount use measurements on the right)
+- 3 cups shredded coconut  (1 1/2 c)
+- 1/4 cup coconut oil (2 T)
+- 1 teaspoon vanilla extract (1 1/2 t)
+- 1 1/2 cups raw almonds (3/4 c)
+- 1 cup agave nectar (1/2 c)
+- 1/4 cocoa (2 T)
 
 ## Instructions
 
