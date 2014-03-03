@@ -4,26 +4,25 @@ Recipe courtesy Emeril Lagasse, 2002 (slightly modified)
 Prep Time: 1 hour Inactive Prep Time: 30 min Cook Time: 30 min
 Makes 2 (12-inch) deep dish pizzas
 
-## Ingredients
+## Ingredients for Chicago Style Deep Dish Pizza Sauce and toppings
 
-Chicago Style Deep Dish Pizza Dough, recipe follows
-2 tablespoons olive oil
-1 tablespoon chopped fresh garlic
-2 teaspoons chopped fresh basil
-1 teaspoon chopped fresh oregano
-1/4 teaspoon fennel seeds
-1/2 teaspoon salt
-1/4 teaspoon freshly ground black pepper
-1/4 teaspoon red pepper flakes
-1 (28-ounce) can plum tomatoes, coarsely crushed
-1 tablespoon dry red wine
-1 teaspoon sugar
-1 tablespoon extra-virgin olive oil
-1 pound mozzarella cheese, sliced
-1 yellow onion, cut into thin rings
-1 cup grated Parmesan
-4 handfuls of fresh spinach
-2 cups shredded chicken
+- 2 tablespoons olive oil
+- 1 tablespoon chopped fresh garlic
+- 2 teaspoons chopped fresh basil
+- 1 teaspoon chopped fresh oregano
+- 1/4 teaspoon fennel seeds
+- 1/2 teaspoon salt
+- 1/4 teaspoon freshly ground black pepper
+- 1/4 teaspoon red pepper flakes
+- 1 (28-ounce) can plum tomatoes, coarsely crushed
+- 1 tablespoon dry red wine
+- 1 teaspoon sugar
+- 1 tablespoon extra-virgin olive oil
+- 1 pound mozzarella cheese, sliced
+- 1 yellow onion, cut into thin rings
+- 1 cup grated Parmesan
+- 4 handfuls of fresh spinach
+- 2 cups shredded chicken
 
 ## Instructions
 
@@ -37,7 +36,8 @@ Layer the mozzarella cheese all over the bottom of the pies. Top each with half 
 
 Bake until the top is golden and the cheese is bubbly and the crust is golden brown, about 30 minutes. Remove from the oven, slice and serve hot.
 
-## Chicago-style Deep Dish Pizza Dough:
+## Ingredients for Chicago-style Deep Dish Pizza Dough
+
 - 1 1/2 cups warm water (about 110 degrees F)
 - 1 (1/4-ounce) packages active dry yeast
 - 1 teaspoon sugar
@@ -45,6 +45,8 @@ Bake until the top is golden and the cheese is bubbly and the crust is golden br
 - 1/2 cup semolina flour
 - 1/2 cup vegetable oil, plus 2 teaspoons to grease bowl
 - 1 teaspoon salt
+
+## Instructions
 
 In a large bowl, combine the water, yeast, and sugar and stir to combine. Let sit until the mixture is foamy, about 5 minutes.
 
