@@ -9,6 +9,6 @@
 * 1.5 cups raw almonds (3/4)
 * 1 cup agave nectar (1/2)
 
-*# Instructions
+## Instructions
 
 Grind almonds in a food processor. Add all ingredients together in a medium sized bowl then combine with a spoon. Shape using a mellon baller or spoon into small balls. Place on wax paper and chill for at least 1 hour before serving.
