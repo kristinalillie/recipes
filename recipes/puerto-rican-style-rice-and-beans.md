@@ -17,4 +17,4 @@ Serves 4
 
 Add two cups of water and brown rice to pot and bring water to a boil, reduce to a low heat cook for approximately 40-50 minutes.
 
-In a seperate large pan add oil, two T of water and potatoes. Cook potatoes at a medium high heat for 7-10 minutes or until tender stirring ocassionally. Then reduce to a medium low heat add beans, olives and garlic. Simmer for 5-10 minutes.
+In a separate large pan add oil, two T of water and potatoes. Cook potatoes at a medium high heat for 7-10 minutes or until tender stirring occasionally. Then reduce to a medium low heat add beans, olives and garlic. Simmer for 5-10 minutes stirring occasionally.
