@@ -2,16 +2,17 @@
 
 ## Ingredients
 
-1 15 ounce can garbanzo beans, drained
-1 medium onion, finely chopped
-1 tablespoon minced garlic
-2 tablespoons fresh parsley, finely chopped
-1 teaspoon coriander
-3/4 teaspoon cumin
-1/2 teaspoon salt
-2 tablespoons flour
-oil for frying (canola or vegetable)
-Preparation:
+- 1 15 ounce can garbanzo beans, drained
+- 1 medium onion, finely chopped
+- 1 tablespoon minced garlic
+- 2 tablespoons fresh parsley, finely chopped
+- 1 teaspoon coriander
+- 3/4 teaspoon cumin
+- 1/2 teaspoon salt
+- 2 tablespoons flour
+- oil for frying (canola or vegetable)
+
+## Instructions
 
 Combine barbanzo beans, garlic, onion, coriander, cumin, salt and pepper (to taste) in medium bowl. Add flour and combine well.
 
