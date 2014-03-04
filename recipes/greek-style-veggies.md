@@ -1,5 +1,7 @@
 # Greek style veggies
 
+Serves 4-6
+
 ## Ingredients
 
 - head of cauliflower

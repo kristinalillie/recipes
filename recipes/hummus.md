@@ -1,5 +1,7 @@
 # Hummus
 
+Serves 4
+
 ## Ingredients
 
 - One 15-ounce can garbanzo beans
@@ -13,9 +15,9 @@
 
 ## Instructions
 
-In the bowl of a food processor, combine tahini, lemon juice, olive oil, minced garlic, cumin and the salt to whipped tahini and lemon juice. Process for 30 seconds, scrape sides and bottom of bowl then process another 30 seconds.
+In the bowl of a food processor, combine tahini, lemon juice, olive oil, minced garlic, cumin and salt. Process for 30 seconds, scrape sides and bottom of bowl then process another 30 seconds.
 
-Open can of garbanzo beans, drain half of the liquid from the can. Add garbanzo beans to the food processor then process for 1 minute. Scrape sides and bottom of bowl, add remaining chickpeas and process for 1 to 2 minutes or until thick and quite smooth. You can add water if too thick. 
+Open can of garbanzo beans, drain half of the liquid from the can. Add garbanzo beans to the food processor then process until smooth you may need to scrape sides and bottom of bowl a few times until smooth. You can add water if too thick.
 
 Scrape the hummus into a bowl then drizzle about 1 tablespoon of olive oil over the top and sprinkle with paprika.
 

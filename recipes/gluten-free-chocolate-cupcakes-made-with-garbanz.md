@@ -1,5 +1,8 @@
 # Gluten-Free Chocolate Cupcakes Made With Garbanzo Bean Flour 
 
+
+Makes about 30 cupcakes
+
 ## Ingredients
 
 - 2 3/4 cups garbanzo bean flour sifted twice
@@ -15,8 +18,6 @@
 - 1 cup boiling water
 
 ## Instructions
-
-Makes about 30 cupcakes
 
 In a large mixing bowl, mix flour, sugar, cocoa powder, baking powder, baking soda, and salt. Mix in eggs, vanilla, olive oil, and milk until just combined. Mix in water. Fill cupcake liners just halfway.
 

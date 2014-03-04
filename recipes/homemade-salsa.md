@@ -1,5 +1,7 @@
 # Homemade salsa
 
+Serves 2
+
 ## Ingridients
 
 - 2 heirloom tomato
