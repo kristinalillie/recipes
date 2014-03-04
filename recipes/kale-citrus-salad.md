@@ -1,10 +1,10 @@
 # Kale citrus salad
 
-Makes two salads.
+Makes two salads
 
 ## Ingredients
 
-- bushel of purple kale
+- 1 bunch of purple kale
 - 2 T lemon juice
 - 1 tomato
 - two mandarin oranges or one regular orange
