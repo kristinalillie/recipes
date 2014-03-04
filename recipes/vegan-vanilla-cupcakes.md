@@ -1,5 +1,7 @@
 # Vanilla cupcakes
 
+Makes 12 cupcakes
+
 ## Ingredients
 
 - 1 cup almond milk (can use soy, rice or hemp milk)

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 can (14 oz) chickpeas (garbanzo beans), drained
+- 1 can (14 oz) chickpeas (garbanzo beans), rinsed and drained
 - 1/2 cup chocolate peanut butter or almond butter
 - 1/4 cup honey
 - 2 tablespoons brown sugar

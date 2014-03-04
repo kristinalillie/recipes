@@ -1,5 +1,7 @@
 # Tostones (Puerto Rican Fried Plantains)
 
+Serves 4-6
+
 ## Ingredients 
 
 - 2 green plantains (you want them to be firm and mostly green)

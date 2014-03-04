@@ -21,3 +21,5 @@ Cream together the vegan margarine and sugar, then stir in the flour and baking 
 Pour into an oiled bread pan and bake for 50 minutes.
 
 Tried this with 1/2 oat flour 1/4 soy and 1/4 garbanzo flour (soy sounds gluten free, but upon further research depending on how the soy is grown it may or may not be gluten-free. If the soy is grown on a crop rotated farm the soy may have gluten via cross contamination from growing in the same soil that wheat was previously grown on. For 100% gluten-free try half oat and half garbanzo flour).
+
+You can also use this recipe to make banana muffins. Makes 12, bake for 20-25 minutes.

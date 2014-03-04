@@ -1,8 +1,9 @@
 # Vegan coconut macaroons
 
+Makes 24 to 30 (to make half the amount use measurements on the right)
+
 ## Ingredients
 
-- Makes 24 to 30 (to make half the amount use measurements on the right)
 - 3 cups shredded coconut (1 1/2 c)
 - 1/4 cup coconut oil (2 T)
 - 1 teaspoon vanilla extract (1 1/2 t)
