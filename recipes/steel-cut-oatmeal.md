@@ -12,4 +12,4 @@ Serves 4
 
 ## Instructions
 
-Bring water to boil in a medium pot. Add oats, reduce heat and cover. With quick cooking oats cook for 7-10 minutes until oats are desired texture. Chop apple into small squares. When oatmeal is finished cooking split into four bowls then add 1/4 cup nuts and 1/4 cup blackberries to each bowl. Add milk then serve.
+Bring water to boil in a medium pot. Add oats, reduce heat and cover. With quick cooking oats cook for 7-10 minutes until oats are desired texture. Chop apple into small squares. When oatmeal is finished cooking split into four bowls then add 1/4 cup nuts and 1/4 cup blackberries to each bowl. Add milk then serve.s
