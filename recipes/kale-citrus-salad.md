@@ -1,5 +1,7 @@
 # Kale citrus salad
 
+Makes two salads.
+
 ## Ingredients
 
 - bushel of purple kale
@@ -11,4 +13,4 @@
 
 ## Instructions
 
-Wash kale, rip up into a bowl. Pour on lemon juice. Mix together lemon juice and Kale. Slice tomato, cucumber and separate oranges. Add to kale and lemon salad. Drizzle on olive oil. Makes two salads.
+Wash kale, rip up into a bowl. Pour on lemon juice. Mix together lemon juice and Kale. Slice tomato, cucumber and separate oranges. Add to kale and lemon salad. Drizzle on olive oil.
