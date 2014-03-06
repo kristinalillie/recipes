@@ -11,32 +11,7 @@
   </head>
   <body>
     <script>
-      var data = [
-        {
-          "image": "https://i.cloudup.com/oknq36tFgw-3000x3000.jpeg",
-          "keywords": ["vanilla", "cupcake", "vegan", "dessert"]
-        },
-        {
-          "image": "https://i.cloudup.com/G7NxdOixtT-3000x3000.jpeg",
-          "keywords": ["chocolate", "cupcake", "frosting", "dessert", "gluten-free", "peanut butter"]
-        },
-        {
-          "image": "https://i.cloudup.com/pz5NQiaALR-3000x3000.jpeg",
-          "keywords": ["cake", "cupcake", "vegan", "dessert", "coconut", "frosting"]
-        },
-        {
-          "image": "https://i.cloudup.com/Yfcn23OYCg-3000x3000.jpeg",
-          "keywords": ["butternut squash", "squash", "vegan", "pecans", "apple", "side dish", "Thanksgiving", "cinnamon"]
-        },
-        {
-          "image": "https://i.cloudup.com/KpJdkFpLt4-3000x3000.jpeg",
-          "keywords": ["breakfast", "oatmeal", "vegan", "fast", "quick", "healthy", "blackberries", "berries"]
-        },
-        {
-          "image": "https://i.cloudup.com/MJimyIHeXK-3000x3000.jpeg",
-          "keywords": ["chocolate", "cupcake", "vegan", "dessert"]
-        }
-      ];
+      var data = <%- JSON.stringify(recipes) %>;
 
       for (var i = 0, n = data.length; i < n; i++){
         renderRecipeImage(data[i]);
@@ -48,6 +23,10 @@
         img.setAttribute('src', recipe.image);
         document.body.appendChild(img);
         img.__data__ = recipe;
+
+        var content = document.createElement('section');
+        content.innerHTML = recipe.content;
+        document.body.appendChild(content);
 
         // center image in browser window
         resize();
