@@ -2,7 +2,7 @@
 
 Serves 4-6
 
-## Ingridients
+## Ingredients
 
 - 1 lb Butternut squash, cubed
 - 1 medium Apple, peeled, cored and cubed
