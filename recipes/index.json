@@ -5,22 +5,27 @@
     "keywords": ["vanilla", "cupcake", "vegan", "dessert"]
   },
   {
+    "name": "chocolate-hummus-frosting",
     "image": "https://i.cloudup.com/G7NxdOixtT-3000x3000.jpeg",
     "keywords": ["chocolate", "cupcake", "frosting", "dessert", "gluten-free", "peanut butter"]
   },
   {
+    "name": "vegan-coconut-frosting",
     "image": "https://i.cloudup.com/pz5NQiaALR-3000x3000.jpeg",
     "keywords": ["cake", "cupcake", "vegan", "dessert", "coconut", "frosting"]
   },
   {
+    "name": "sweet-roasted-butternut-squash-with-apples-pecans",
     "image": "https://i.cloudup.com/Yfcn23OYCg-3000x3000.jpeg",
     "keywords": ["butternut squash", "squash", "vegan", "pecans", "apple", "side dish", "Thanksgiving", "cinnamon"]
   },
   {
+    "name": "steel-cut-oatmeal",
     "image": "https://i.cloudup.com/KpJdkFpLt4-3000x3000.jpeg",
     "keywords": ["breakfast", "oatmeal", "vegan", "fast", "quick", "healthy", "blackberries", "berries"]
   },
   {
+    "name": "vegan-chocolate-cupcakes",
     "image": "https://i.cloudup.com/MJimyIHeXK-3000x3000.jpeg",
     "keywords": ["chocolate", "cupcake", "vegan", "dessert"]
   }

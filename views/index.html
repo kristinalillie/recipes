@@ -8,6 +8,7 @@
         padding: 0px;
       }
     </style>
+    <link rel="stylesheet" href="stylesheets/style.css"></link>
   </head>
   <body>
     <script>
@@ -19,13 +20,21 @@
 
       function renderRecipeImage(recipe){
         // create image tag
+        var header = document.createElement('header');
+        document.body.appendChild(header);
+        var hgroup = document.createElement('hgroup');
+        header.appendChild(hgroup);
+
         var img = document.createElement('img');
         img.setAttribute('src', recipe.image);
-        document.body.appendChild(img);
+        header.appendChild(img);
         img.__data__ = recipe;
 
         var content = document.createElement('section');
         content.innerHTML = recipe.content;
+        var title = content.getElementsByTagName('h1')[0];
+        content.removeChild(title);
+        hgroup.appendChild(title);
         document.body.appendChild(content);
 
         // center image in browser window
