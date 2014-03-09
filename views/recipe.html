@@ -48,34 +48,6 @@
         }        
       }
 
-      var enter = 13; // enter keycode
-      var word = '';
-      window.addEventListener('keyup', function(e){
-        if (e.keyCode == enter) { 
-          word = ''; // reset word
-        } else {
-          var letter = String.fromCharCode(e.keyCode).toLowerCase();
-          word += letter;
-          showMatches(word); 
-        }
-      });
-
-      function showMatches(word){
-        if (word.length <= 1) return;
-        var imgs = document.getElementsByTagName('img');
-        for (var i = 0, n = imgs.length; i < n; i++) {
-          var img = imgs[i];
-          var recipe = img.__data__;
-          for (var j = 0, m = recipe.keywords.length; j < m; j++) {
-            if (recipe.keywords[j].match(word)) {
-              img.style.display = 'block'; // show
-              break;
-            } else {
-              img.style.display = 'none'; // hide
-            }
-          }
-        }
-      }
     </script>
   </body>
 </html>
