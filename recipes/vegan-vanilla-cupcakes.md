@@ -1,4 +1,4 @@
-# Vanilla cupcakes
+# Vegan vanilla cupcakes
 
 Makes 12 cupcakes
 

@@ -35,6 +35,22 @@ app.get('/', function(req, res){
   res.render('index.html', { recipes: recipes });
 });
 
+app.get('/:name', function(req, res, next){
+  var name = req.params.name;
+  var recipe;
+  for (var i = 0, n = recipes.length; i < n; i++){
+    recipe = recipes[i];
+    if (recipe.name == name) {
+      break;
+    }
+    recipe = null;
+  }
+
+  if (!recipe) return next(new Error('failed to find recipe'));
+
+  res.render('recipe.html', { recipe: recipe });
+});
+
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
 });

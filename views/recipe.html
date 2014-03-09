@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <style type="text/css">
+      html, body {
+        margin: 0px; 
+        padding: 0px;
+      }
+    </style>
+    <link rel="stylesheet" href="stylesheets/style.css"></link>
+  </head>
+  <body>
+    <script>
+      var data = [<%- JSON.stringify(recipe) %>];
+
+      for (var i = 0, n = data.length; i < n; i++){
+        renderRecipeImage(data[i]);
+      }
+
+      function renderRecipeImage(recipe){
+        // create image tag
+        var header = document.createElement('header');
+        document.body.appendChild(header);
+        var hgroup = document.createElement('hgroup');
+        header.appendChild(hgroup);
+
+        var img = document.createElement('img');
+        img.setAttribute('src', recipe.image);
+        header.appendChild(img);
+        img.__data__ = recipe;
+
+        var content = document.createElement('section');
+        content.innerHTML = recipe.content;
+        var title = content.getElementsByTagName('h1')[0];
+        content.removeChild(title);
+        hgroup.appendChild(title);
+        document.body.appendChild(content);
+
+        // center image in browser window
+        resize();
+
+        window.addEventListener('resize', resize);
+
+        function resize(){
+          var browserWidth = window.innerWidth;
+          img.setAttribute('width', browserWidth);
+        }        
+      }
+
+      var enter = 13; // enter keycode
+      var word = '';
+      window.addEventListener('keyup', function(e){
+        if (e.keyCode == enter) { 
+          word = ''; // reset word
+        } else {
+          var letter = String.fromCharCode(e.keyCode).toLowerCase();
+          word += letter;
+          showMatches(word); 
+        }
+      });
+
+      function showMatches(word){
+        if (word.length <= 1) return;
+        var imgs = document.getElementsByTagName('img');
+        for (var i = 0, n = imgs.length; i < n; i++) {
+          var img = imgs[i];
+          var recipe = img.__data__;
+          for (var j = 0, m = recipe.keywords.length; j < m; j++) {
+            if (recipe.keywords[j].match(word)) {
+              img.style.display = 'block'; // show
+              break;
+            } else {
+              img.style.display = 'none'; // hide
+            }
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
