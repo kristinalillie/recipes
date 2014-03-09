@@ -38,11 +38,10 @@ app.get('/', function(req, res){
 app.get('/:name', function(req, res, next){
   var name = req.params.name;
   var recipe;
+  
   for (var i = 0, n = recipes.length; i < n; i++){
     recipe = recipes[i];
-    if (recipe.name == name) {
-      break;
-    }
+    if (recipe.name == name) break;
     recipe = null;
   }
 
